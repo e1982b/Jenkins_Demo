@@ -1,0 +1,36 @@
+pipeline {
+    agent any
+
+    options {
+        ansiColor('vga')
+        timestamps()
+    }        
+
+    stages {
+        stage('Check Stage') {
+            steps {
+                echo 'Check Stage'
+            }
+        }
+        stage('Build Stage') {
+            steps {
+                echo 'Build Stage'
+            }
+        }
+        stage('Test Stage') {
+            steps {
+                echo 'Test Stage'
+            }
+        }
+        stage('Release Stage') {
+            steps {
+                echo 'Release Stage'
+            }
+        }
+        stage('Report Stage') {
+            steps {
+                echo 'Report Stage'
+            }
+        }
+    }
+}
