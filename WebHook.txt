@@ -1,1 +1,2 @@
-If any push happens to this repository,then Jenkins WebHook triggers it automaticly...
+If any push happens to this repository,then Jenkins WebHook triggers it automatically..
+2. Versuche
