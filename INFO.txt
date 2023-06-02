@@ -1,0 +1,32 @@
+InfoInfo
+I'm a self-motivated, ambitious Software Developer, always looking for the next challenge. I enjoy bringing high value to a team and am always eager to learn and use the latest technology to deliver creative solutions to modern problems.
+
+Soft skills: *Creavity *Leadership *Teamwork
+
+Hard skills: *Git - GitHub *Markdown *HTML *CSS *JavaScript *Nodejs *Java
+
+Automation Testings, Manual Testing, API Testing, Front-end/Back-end Testing, Cross Browser Testing, Parallel Execution,
+
+Programming Languages: Java 8+, Gherkin, SQL, JSON, XML, HTML, CSS
+
+Testing Tools/Libraries: Selenium WebDriver, Cucumber, TestNG, JUnit, Apache POI
+
+API Testing Tools/Libraries: POSTMAN, Rest Assured
+
+CI/CD Tool: Jenkins
+
+Build Management Tool: Maven
+
+Version Control System: GIT/GITHUB
+
+Testings: UI, Rest Assured API, Regression, Smoke
+
+Frameworks: Behavior Driven Development Framework, POM - Page Object Model Framework,
+
+Project Management/Defect Tracking Tools: JIRA / JIRA-Xray
+
+Project Methodologies: Agile/Scrum
+
+
+
+IDE: IntelliJ, SQL Developer, Eclipse
