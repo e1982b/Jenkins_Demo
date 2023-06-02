@@ -27,6 +27,4 @@ Project Management/Defect Tracking Tools: JIRA / JIRA-Xray
 
 Project Methodologies: Agile/Scrum
 
-
-
 IDE: IntelliJ, SQL Developer, Eclipse
